@@ -6,7 +6,7 @@ export default function Home() {
     <div className="flex justify-center items-center w-90">
     <Image
       src={Chaap1}
-      alt="Big packet Chaap"
+      alt="Big packet Millet Chaap"
 
     />
 </div>
